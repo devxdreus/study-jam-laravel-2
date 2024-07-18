@@ -48,7 +48,7 @@ Selamat datang di project Study Jam Laravel! Dalam study jam ini, kita akan bela
 1. Clone repositori ini:
 
     ```bash
-    git clone https://github.com/username/study-jam-laravel.git
+    git clone https://github.com/username/study-jam-laravel-2.git
     ```
 
 2. Masuk ke direktori project:
